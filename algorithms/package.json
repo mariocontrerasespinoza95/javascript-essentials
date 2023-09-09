@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^0.34.4"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "algorithms",
+  "scripts": {
+    "test": "vitest"
+  },
+  "version": "1.0.0"
+}
